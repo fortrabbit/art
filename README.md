@@ -23,10 +23,10 @@ Colors are lazily using the Tailwind color palette
   - indigo-500
     - oklch(0.585 0.233 277.117)
     - #6366f1
-   
+
 ## HTML logo
 
-To create the brand logo in HTML you can just type: "•fortrabbit" — bullet character, a normal space and then name of the company. Use the Georgia Typeface in bold and italic. 
+To create the brand logo in HTML you can just type: "•fortrabbit" — bullet character, a normal space and then name of the company. Use the Georgia Typeface in bold and italic.
 
 ## Logo usage
 
